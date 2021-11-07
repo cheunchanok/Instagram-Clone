@@ -1,1 +1,2 @@
-# Instagram-Clone
+# Instagram-Clone CN436
+ชื่นชนก ผิวเกลี้ยง รหัสนักศึกษา 6110613111
